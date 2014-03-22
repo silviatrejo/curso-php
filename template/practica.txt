@@ -1,0 +1,13 @@
+Crear un formulario tomando como plantilla el archivo index.php, con los siguientes campos:
+
+- Nombre 	input texto
+- Password	input password
+- Email 	input email
+- Fecha		input date
+- Info		input textarea
+- Edad		input number
+
+Tomar en cuenta los componentes de boostrap.
+
+http://responsive.mx/curso/practica.txt
+http://responsive.mx/curso/dashboard.zip
